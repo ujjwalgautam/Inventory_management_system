@@ -1,0 +1,60 @@
+F:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.exe
+F:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.deps.json
+F:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.runtimeconfig.json
+F:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.dll
+F:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.pdb
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.AssemblyReference.cache
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfoInputs.cache
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfo.cs
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.CoreCompileInputs.cache
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.dll
+F:\csharp\lab1.net\obj\Debug\net6.0\refint\lab1.net.dll
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.pdb
+F:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.genruntimeconfig.cache
+F:\csharp\lab1.net\obj\Debug\net6.0\ref\lab1.net.dll
+E:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.exe
+E:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.deps.json
+E:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.runtimeconfig.json
+E:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.dll
+E:\csharp\lab1.net\bin\Debug\net6.0\lab1.net.pdb
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.AssemblyReference.cache
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfoInputs.cache
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfo.cs
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.CoreCompileInputs.cache
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.dll
+E:\csharp\lab1.net\obj\Debug\net6.0\refint\lab1.net.dll
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.pdb
+E:\csharp\lab1.net\obj\Debug\net6.0\lab1.net.genruntimeconfig.cache
+E:\csharp\lab1.net\obj\Debug\net6.0\ref\lab1.net.dll
+E:\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.exe
+E:\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.deps.json
+E:\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.runtimeconfig.json
+E:\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.dll
+E:\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.pdb
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.AssemblyReference.cache
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.GeneratedMSBuildEditorConfig.editorconfig
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfoInputs.cache
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfo.cs
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.CoreCompileInputs.cache
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.dll
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\refint\lab1.net.dll
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.pdb
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.genruntimeconfig.cache
+E:\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\ref\lab1.net.dll
+E:\sixth sem\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.exe
+E:\sixth sem\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.deps.json
+E:\sixth sem\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.runtimeconfig.json
+E:\sixth sem\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.dll
+E:\sixth sem\dipak sir notes\csharp\lab1.net\bin\Debug\net6.0\lab1.net.pdb
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.AssemblyReference.cache
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.GeneratedMSBuildEditorConfig.editorconfig
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfoInputs.cache
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.AssemblyInfo.cs
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.csproj.CoreCompileInputs.cache
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.dll
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\refint\lab1.net.dll
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.pdb
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\lab1.net.genruntimeconfig.cache
+E:\sixth sem\dipak sir notes\csharp\lab1.net\obj\Debug\net6.0\ref\lab1.net.dll
